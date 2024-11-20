@@ -1,0 +1,18 @@
+{
+    "zones": {
+
+    },
+    "animations": {
+
+    },
+    "npcs": [
+
+    ],
+    "options": {
+        "disallowMq2": true,
+        "disableMapWindow": false,
+        "disableLuclinModels": false,
+        "disabledBazaarWindow": false,
+        "disableHeroic": false
+    }
+}
