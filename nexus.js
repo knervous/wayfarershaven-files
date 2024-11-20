@@ -19,8 +19,8 @@ const manifestTemplate = {
   try {
       let manifest;
       try {
-        manifest = await import("./manifest.json", { assert: { type: "json" } });
-        manifest = manifest.default;
+        const txt = fs.readFileSync('./manifest.json', 'utf-8')
+        manifest = JSON.parse(txt)
       } catch {
         console.log(
           "Manifest file did not exist. Creating a new file from template."
