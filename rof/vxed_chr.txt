@@ -1,0 +1,16 @@
+15
+emp,emp_chr
+tem,tem_chr
+tef,tef_chr
+tgl,tgl_chr
+twf,twf_chr
+tmb,tmb_chr
+iwh,iwh_chr
+iec,iec_chr
+auk,auk_chr
+ihu,ihu_chr
+isb,isb_chr
+ibr,ibr_chr
+ttb,ttb_chr
+clm,clm_chr
+icy,icy_chr

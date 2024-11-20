@@ -1,0 +1,14 @@
+13
+wil,wil_chr
+pus,pus_chr
+gtd,gtd_chr
+spd,spd_chr
+lmf,lmf_chr
+lmm,lmm_chr
+drv,drv_chr
+sdc,sdc_chr
+box,box_chr
+brl,brl_chr
+cpt,cpt_chr
+bat,bat_chr
+rat,rat_chr

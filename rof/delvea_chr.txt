@@ -1,0 +1,9 @@
+8
+dvs,dvs
+dke,dke
+dre,dre
+lvr,lvr
+seg,seg
+lsp,lsp
+lsq,lsq
+spq,spq

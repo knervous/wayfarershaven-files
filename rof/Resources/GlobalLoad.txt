@@ -1,0 +1,123 @@
+1,1,TFFFE,Equipment-01.eqg,Loading Character Equipment Files
+1,1,TFFFC,GlobalFroglok_chr,Loading Froglok
+1,1,TFFTC,GlobalPCFroglok_chr,Loading Froglok
+1,1,TFFFE,frogequip,Loading Froglok
+1,1,TFFTC,GlobalSKE_chr2,Loading Froglok
+1,1,TFFFC,GlobalDRK_chr,Loading Froglok
+1,1,TFFFE,Global_obj,Loading Character Equipment Files
+1,1,TFTFE,GEquip,Loading Character Equipment Files
+2,0,TFFFE,GEquip8,Loading Character Equipment Files
+2,0,TFFFE,GEquip2,Loading Character Equipment Files
+2,0,TFFFU,grass,Loading Character Equipment Files
+2,0,TFFFE,GEquip5,Loading Character Equipment Files
+2,0,TFFFE,GEquip4,Loading Character Equipment Files
+2,0,TFFFE,GEquip3,Loading Character Equipment Files
+2,0,TFFFE,loyequip,Loading Character Equipment Files
+2,0,TFFFE,ldonequip,Loading Character Equipment Files
+2,0,TFFFE,gatesequip,Loading Character Equipment Files
+2,0,TFFFE,omensequip.eqg,Loading Character Equipment Files
+2,0,TFFFE,donequip.eqg,Loading Character Equipment Files
+2,0,TFFFE,dodequip.eqg,Loading DoD Character Equipment Files
+2,0,TFFFE,porequip.eqg,Loading PoR Character Equipment Files
+2,0,TFFFE,tssequip.eqg,Loading TSS Character Equipment Files
+2,0,TFFFE,tbsequip.eqg,Loading TBS Character Equipment Files
+2,0,TFFFE,sofequip.eqg,Loading SOF Character Equipment Files
+3,0,TFFFC,mwr.eqg,Loading Characters
+3,0,TFFFC,dbx.eqg,Loading Characters
+3,0,TFFFC,rob.eqg,Loading Characters
+3,0,TFFFC,dbp.eqg,Loading Characters
+3,0,TFFFC,cdr.eqg,Loading Characters
+3,0,TFFFC,ans.eqg,Loading Characters
+3,0,TFFFC,asm.eqg,Loading Characters
+3,0,TFFFC,seg.eqg,Loading Characters
+3,0,TFFFC,lsp.eqg,Loading Characters
+3,0,TFFFC,kor.eqg,Loading Characters
+3,0,TFFFC,myg.eqg,Loading Characters
+3,0,TFFFC,dvs.eqg,Loading Characters
+3,0,TFFFC,drs.eqg,Loading Characters
+3,0,TFFFC,shd.eqg,Loading Characters
+3,0,TFFFC,sdr.eqg,Loading Characters
+3,0,TFFFC,mdr.eqg,Loading Characters
+3,0,TFFFC,krn.eqg,Loading Characters
+3,0,TFFFC,gbn.eqg,Loading Characters
+3,0,TFFFC,wwf.eqg,Loading Characters
+3,0,TFFFC,kbd.eqg,Loading Characters
+3,0,TFFFC,fng.eqg,Loading Characters
+3,0,TFFFC,ork.eqg,Loading Characters
+3,0,TFFFC,ggy.eqg,Loading Characters
+3,0,TFFFC,eve.eqg,Loading Characters
+3,0,TFFFC,mnr.eqg,Loading Characters
+3,0,TFFFC,zmf.eqg,Loading Characters
+3,0,TFFFC,zmm.eqg,Loading Characters
+3,0,TFFFC,fry.eqg,Loading Characters
+3,0,TFFFC,cwr.eqg,Loading Characters
+3,0,TFFFC,bas.eqg,Loading Characters
+3,0,TFFFC,tar.eqg,Loading Characters
+3,0,TFFFC,pma.eqg,Loading Characters
+3,0,TFFFC,rtn.eqg,Loading Characters
+3,0,TFFFC,btn.eqg,Loading Characters
+3,0,TFFFC,snk.eqg,Loading Characters
+3,0,TFFFC,lsq.eqg,Loading Characters
+3,0,TFFFC,fgt.eqg,Loading Characters
+3,0,TFFFC,sdc_chr,Loading Characters
+3,0,TFFFC,cst_chr,Loading Characters
+3,0,TFFFC,rap_chr,Loading Characters
+3,0,TFFFC,Dpm_chr,Loading Characters
+3,0,TFFFC,Dpf_chr,Loading Characters
+3,0,TFFFC,Epm_chr,Loading Characters
+3,0,TFFFC,Epf_chr,Loading Characters
+3,0,TFFFC,Gpm_chr,Loading Characters
+3,0,TFFFC,Gpf_chr,Loading Characters
+3,0,TFFFC,Hpf_chr,Loading Characters
+3,0,TFFFC,Hpm_chr,Loading Characters
+3,0,TFFFC,Opf_chr,Loading Characters
+3,0,TFFFC,Opm_chr,Loading Characters
+3,0,TFFFC,Tbm_chr,Loading Characters
+3,0,TFFFC,Tbf_chr,Loading Characters
+3,0,TFFFC,mmm_chr,Loading Characters
+3,0,TFFFC,mmf_chr,Loading Characters
+3,0,TFFFC,tnf_chr,Loading Characters
+3,0,TFFFC,tnm_chr,Loading Characters
+3,0,TFFFC,skt_chr,Loading Character Equipment Files
+3,0,TFFFC,Global6_chr2,Loading Character Equipment Files
+3,0,TFFFC,Global6_chr,Loading Character Equipment Files
+3,0,TFFFC,Global4_chr,Loading Characters
+3,1,TFFFC,Global_chr,Loading Characters
+3,0,TFFFC,fgh_chr,Loading Characters
+3,0,TFFFC,mmm_chr,Loading Characters
+3,0,TFFFC,mmf_chr,Loading Characters
+3,0,TFFFC,ila_chr,Loading Characters
+3,0,TFFFC,rpt.eqg,Loading Characters
+3,0,TFFFC,jkr_chr,Loading Characters
+3,0,TFFFC,mmy_chr,Loading Characters
+3,0,TFFFC,DKM.eqg,Loading Characters
+3,0,TFFFC,DKM_anims.eqg,Loading Characters
+3,0,TFFFC,DKF.eqg,Loading Characters
+3,0,TFFFC,DKF_anims.eqg,Loading Characters
+3,0,TFFFC,spelltree.eqg,Loading Characters
+3,0,TFFFC,UNM.eqg,Loading Horses
+3,0,TFFFC,HRS.eqg,Loading Horses
+3,0,TFFFC,globalgdb.eqg,Loading Characters
+3,0,TFFFC,glm.eqg,Loading Characters
+3,0,TFFFC,mur.eqg,Loading Characters
+3,0,TFFFC,dsg.eqg,Loading Characters
+3,0,TFFFC,prt.eqg,Loading Characters
+3,0,TFFFC,scu.eqg,Loading Characters
+3,0,TFFFC,frd.eqg,Loading Characters
+3,0,TFFFC,ddv.eqg,Loading Characters
+3,0,TFFFC,shl.eqg,Loading Characters
+3,0,TFFFC,bsg.eqg,Loading Characters
+3,0,TFFFC,srn.eqg,Loading Characters
+3,0,TFFFC,bxi.eqg,Loading Characters
+3,0,TFFFC,drg.eqg,Loading Characters
+3,0,TFFFC,mch.eqg,Loading Characters
+3,0,TFFFC,mki.eqg,Loading Characters
+3,0,TFFFC,mpu.eqg,Loading Characters
+3,0,TFFFC,gbm.eqg,Loading Characters
+3,0,TFFFC,thfnpc.eqg,Loading Characters
+3,0,TFFFC,thfweap.eqg,Loading Characters
+3,0,TFFFC,g05.eqg,Loading Characters
+3,0,TFFFC,I10.eqg,Loading Characters
+3,0,TFFFC,thfobj.eqg,Loading Characters
+4,0,TFFFC,Global2_chr,Loading Global Items and Equipment
+4,0,TFFFC,Global3_chr,Loading Global Items and Equipment

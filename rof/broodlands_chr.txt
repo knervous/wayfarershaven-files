@@ -1,0 +1,9 @@
+8
+dvs,dvs
+dke,dke
+spq,spq
+ans,ans
+fgt,fgt
+lsp,lsp
+lmf,lmf_chr
+lmm,lmm_chr

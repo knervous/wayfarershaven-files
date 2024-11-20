@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<XML ID="EQInterfaceDefinitionLanguage">
+	<Schema xmlns="EverQuestData" xmlns:dt="EverQuestDataTypes" />
+
+    <Ui2DAnimation item="CW_SpellGemHolder">
+       <Frames>
+           <Texture>classic_pieces01.tga</Texture>
+           <Location>
+              <X>41</X>
+              <Y>123</Y>
+           </Location>
+           <Size>
+              <CX>36</CX>
+              <CY>28</CY>
+           </Size>
+       </Frames>
+    </Ui2DAnimation>
+	
+	<StaticAnimation item= "CSWDummy">
+		<ScreenID>CSWDummy</ScreenID>
+		<Location>
+			<X>-2</X>
+			<Y>-1</Y>
+		</Location>
+		<Size>
+			<CX>8</CX>
+			<CY>8</CY>
+		</Size>
+		<Animation>A_CornerSquare</Animation>
+	</StaticAnimation>
+
+	<Button item="CSPW_SpellBook">
+		<ScreenID>CSPW_SpellBook</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Font>1</Font>
+		<Location>
+			<X>0</X>
+			<Y>273</Y>
+		</Location>
+		<Size>
+			<CX>37</CX>
+			<CY>22</CY>
+		</Size>
+		<Style_Transparent>false</Style_Transparent>
+		<Style_Checkbox>true</Style_Checkbox>
+		<!--<RadioGroup/>-->
+		
+		<Text>Spells</Text>
+
+		<TextColor>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+		</TextColor>
+		<ButtonDrawTemplate>
+			<Normal>A_SquareBtnNormal</Normal>
+			<PressedFlyby>A_SquareBtnPressedFlyby</PressedFlyby>
+			<Pressed>A_SquareBtnPressed</Pressed>
+			<Flyby>A_SquareBtnFlyby</Flyby>
+			<Disabled>A_SquareBtnDisabled</Disabled>
+		</ButtonDrawTemplate>
+	</Button>
+	
+	<SpellGem item="CSPW_Spell0">
+		<ScreenID>CSPW_Spell0</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>2</Y>
+		</Location>
+		<Size>
+			<CX>36</CX>
+			<CY>28</CY>
+		</Size>
+		<SpellGemDrawTemplate>
+			<Holder>CW_SpellGemHolder</Holder>
+		</SpellGemDrawTemplate>
+		</SpellGem>
+	<SpellGem item="CSPW_Spell1">
+		<ScreenID>CSPW_Spell1</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>32</Y>
+		</Location>
+		<Size>
+			<CX>36</CX>
+			<CY>28</CY>
+		</Size>
+		<SpellGemDrawTemplate>
+			<Holder>CW_SpellGemHolder</Holder>
+		</SpellGemDrawTemplate>
+	</SpellGem>
+	<SpellGem item="CSPW_Spell2">
+		<ScreenID>CSPW_Spell2</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>62</Y>
+		</Location>
+		<Size>
+			<CX>36</CX>
+			<CY>28</CY>
+		</Size>
+		<SpellGemDrawTemplate>
+			<Holder>CW_SpellGemHolder</Holder>
+		</SpellGemDrawTemplate>
+	</SpellGem>
+	<SpellGem item="CSPW_Spell3">
+		<ScreenID>CSPW_Spell3</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>92</Y>
+		</Location>
+		<Size>
+			<CX>36</CX>
+			<CY>28</CY>
+		</Size>
+		<SpellGemDrawTemplate>
+			<Holder>CW_SpellGemHolder</Holder>
+		</SpellGemDrawTemplate>
+	</SpellGem>
+	<SpellGem item="CSPW_Spell4">
+		<ScreenID>CSPW_Spell4</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>122</Y>
+		</Location>
+		<Size>
+			<CX>36</CX>
+			<CY>28</CY>
+		</Size>
+		<SpellGemDrawTemplate>
+			<Holder>CW_SpellGemHolder</Holder>
+		</SpellGemDrawTemplate>
+	</SpellGem>
+	<SpellGem item="CSPW_Spell5">
+		<ScreenID>CSPW_Spell5</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>152</Y>
+		</Location>
+		<Size>
+			<CX>36</CX>
+			<CY>28</CY>
+		</Size>
+		<SpellGemDrawTemplate>
+			<Holder>CW_SpellGemHolder</Holder>
+		</SpellGemDrawTemplate>
+	</SpellGem>
+	<SpellGem item="CSPW_Spell6">
+		<ScreenID>CSPW_Spell6</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>182</Y>
+		</Location>
+		<Size>
+			<CX>36</CX>
+			<CY>28</CY>
+		</Size>
+		<SpellGemDrawTemplate>
+			<Holder>CW_SpellGemHolder</Holder>
+		</SpellGemDrawTemplate>
+	</SpellGem>
+	<SpellGem item="CSPW_Spell7">
+		<ScreenID>CSPW_Spell7</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>212</Y>
+		</Location>
+		<Size>
+			<CX>36</CX>
+			<CY>28</CY>
+		</Size>
+		<SpellGemDrawTemplate>
+			<Holder>CW_SpellGemHolder</Holder>
+		</SpellGemDrawTemplate>
+	</SpellGem>
+	<SpellGem item="CSPW_Spell8">
+		<ScreenID>CSPW_Spell8</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>242</Y>
+		</Location>
+		<Size>
+			<CX>36</CX>
+			<CY>28</CY>
+		</Size>
+		<SpellGemDrawTemplate>
+			<Holder>CW_SpellGemHolder</Holder>
+		</SpellGemDrawTemplate>
+	</SpellGem>
+	<SpellGem item="CSPW_Spell9">
+		<ScreenID>CSPW_Spell9</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<SpellGemDrawTemplate>
+			<Holder>A_SpellGemHolder</Holder>
+			<Background>A_SpellGemBackground</Background>
+			<Highlight>A_SpellGemHighlight</Highlight>
+		</SpellGemDrawTemplate>
+		<SpellIconOffsetX>8</SpellIconOffsetX>
+		<SpellIconOffsetY>4</SpellIconOffsetY>
+	</SpellGem>
+	<SpellGem item="CSPW_Spell10">
+		<ScreenID>CSPW_Spell10</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<SpellGemDrawTemplate>
+			<Holder>A_SpellGemHolder</Holder>
+			<Background>A_SpellGemBackground</Background>
+			<Highlight>A_SpellGemHighlight</Highlight>
+		</SpellGemDrawTemplate>
+		<SpellIconOffsetX>8</SpellIconOffsetX>
+		<SpellIconOffsetY>4</SpellIconOffsetY>
+	</SpellGem>
+	<SpellGem item="CSPW_Spell11">
+		<ScreenID>CSPW_Spell11</ScreenID>
+		<RelativePosition>true</RelativePosition>
+		<Size>
+			<CX>0</CX>
+			<CY>0</CY>
+		</Size>
+		<SpellGemDrawTemplate>
+			<Holder>A_SpellGemHolder</Holder>
+			<Background>A_SpellGemBackground</Background>
+			<Highlight>A_SpellGemHighlight</Highlight>
+		</SpellGemDrawTemplate>
+		<SpellIconOffsetX>8</SpellIconOffsetX>
+		<SpellIconOffsetY>4</SpellIconOffsetY>
+	</SpellGem>
+
+	<Screen item="CastSpellWnd">
+		<!--<ScreenID/>-->
+		<!--<Font/>-->
+		<RelativePosition>false</RelativePosition>
+		<Location>
+			<X>0</X>
+			<Y>25</Y>
+		</Location>
+		<Size>
+			<CX>45</CX>
+			<CY>303</CY>
+		</Size>
+		<Text>Spells</Text>
+		<Style_Transparent>false</Style_Transparent>
+		<TooltipReference>Allows you to cast your memorized spells</TooltipReference>
+		<DrawTemplate>WDT_RoundedNoTitle</DrawTemplate>
+		<Style_Titlebar>false</Style_Titlebar>
+		<Style_Closebox>false</Style_Closebox>
+		<Style_Minimizebox>false</Style_Minimizebox>
+		<Style_Border>true</Style_Border>
+		<Style_Sizable>false</Style_Sizable>
+		<Pieces>CSPW_Spell9</Pieces>
+		<Pieces>CSPW_Spell10</Pieces>
+		<Pieces>CSPW_Spell11</Pieces>
+		<Pieces>CSWDummy</Pieces>
+		<Pieces>CSPW_Spell0</Pieces>
+		<Pieces>CSPW_Spell1</Pieces>
+		<Pieces>CSPW_Spell2</Pieces>
+		<Pieces>CSPW_Spell3</Pieces>
+		<Pieces>CSPW_Spell4</Pieces>
+		<Pieces>CSPW_Spell5</Pieces>
+		<Pieces>CSPW_Spell6</Pieces>
+		<Pieces>CSPW_Spell7</Pieces>
+		<Pieces>CSPW_Spell8</Pieces>
+		<Pieces>CSPW_SpellBook</Pieces>
+	</Screen>
+</XML>
